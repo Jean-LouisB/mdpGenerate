@@ -23,7 +23,7 @@ if(isset($_POST['userPass'])){
 <section>
     <form action="#" method="post">
         <div>
-            <label for="userPass">Créez un mot de passe crypté:</label>
+            <label for="userPass">Créer un mot de passe crypté:</label>
             <input type="password" placeholder="Mot de passe" id="userPass" name="userPass" required>
             <button type="submit">VALIDER</button>
         </div>
