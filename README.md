@@ -7,6 +7,6 @@ Ou un mot de passe oublié en développement et qu'il n'y a aucun moyen de le r�
 
 screen shot :
 
-![Screen shot](screenShot.jpg)
+![Screen shot](screenShot_1.jpg)
 ![Screen shot](screenShot_2.jpg)
 ![Screen shot](screenShot_3.jpg)
