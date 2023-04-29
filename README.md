@@ -4,3 +4,7 @@ En développement quand la création de user n'est pas encore codée, et qu'il f
 Ou un mot de passe oublié en développement et qu'il n'y a aucun moyen de le récupérer ou modifier autrement qu'en dur dans la bdd.
 
 *Fabrice Kopf*
+
+screen shot :
+
+(![screenShot.jpg])
